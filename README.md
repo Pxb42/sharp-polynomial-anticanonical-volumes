@@ -13,7 +13,7 @@ School of Mathematical Sciences, Fudan University
 The manuscript concerns polynomial upper bounds for anticanonical volumes of varieties of epsilon-Fano type. Its main statement is that, for each positive integer $n$, there is a constant $C_n$ depending only on $n$ such that
 
 $$
-\operatorname{vol}(-K_X) \leq C_n\epsilon^{-(2^n-n-1)}
+\mathrm{vol}(-K_X) \leq C_n\epsilon^{-(2^n-n-1)}
 $$
 
 whenever $X$ is a normal projective $\mathbb{Q}$-Gorenstein variety over $\mathbb{C}$ admitting an effective $\mathbb{Q}$-divisor $\Delta$ such that $(X,\Delta)$ is $\epsilon$-lc and $-(K_X+\Delta)$ is ample, with $0<\epsilon\leq 1$.
